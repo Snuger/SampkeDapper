@@ -56,3 +56,19 @@ package-lock.json
 
 /bin/
 */bin/*
+/examples/DapperOnNorthwind.Web/obj
+/src/Sampke.Dapper.Abstract/obj
+/src/Sampke.Dapper.Mysql/bin/Debug/net5.0
+/src/Sampke.Dapper.Test/bin/Debug/net6.0
+/src/Sampke.Dapper.Test/obj/Debug/net6.0
+/src/Sampke.Dapper.SqlServer/bin/Debug/net5.0
+/src/Sampke.Dapper.SqlServer/obj
+/src/Sampke.Dapper.Postgresql/bin/Debug/net5.0
+/src/Sampke.Dapper.Postgresql/obj
+/src/Sampke.Dapper.Oracle/bin/Debug/net5.0
+/src/Sampke.Dapper.Oracle/obj
+/src/Sampke.Dapper.Abstract/bin/Debug/net5.0
+/src/Sampke.Dapper.Mysql/obj/Debug/net5.0
+/src/Sampke.Dapper.Mysql/obj
+/examples/DapperOnNorthwind.Web/bin/Debug/net5.0
+/src/Sampke.Dapper.Test/obj

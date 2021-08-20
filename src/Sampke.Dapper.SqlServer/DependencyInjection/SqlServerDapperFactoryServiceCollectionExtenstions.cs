@@ -7,7 +7,7 @@ namespace Microsoft.Extensions.DependencyInjection
 {
     public static class SqlServerDapperFactoryServiceCollectionExtenstions
     {
-        public static DapperClinet UseMysql(this DapperClinet clinet, Action<DapperClinet> action)
+        public static DapperClinet UseSqlServer(this DapperClinet clinet, Action<DapperClinet> action)
         {
             if (clinet is null)
             {

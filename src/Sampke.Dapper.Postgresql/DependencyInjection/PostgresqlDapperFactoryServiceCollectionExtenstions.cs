@@ -6,7 +6,7 @@ namespace Microsoft.Extensions.DependencyInjection
 {
     public static class PostgresqlDapperFactoryServiceCollectionExtenstions
     {
-        public static DapperClinet UseMysql(this DapperClinet clinet, Action<DapperClinet> action)
+        public static DapperClinet UsePostgresql(this DapperClinet clinet, Action<DapperClinet> action)
         {
             if (clinet is null)
             {

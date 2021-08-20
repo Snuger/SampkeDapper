@@ -6,7 +6,7 @@ namespace Microsoft.Extensions.DependencyInjection
 {
     public static class OracleDapperFactoryServiceCollectionExtenstions
     {
-        public static DapperClinet UseMysql(this DapperClinet clinet, Action<DapperClinet> action)
+        public static DapperClinet UseOracle(this DapperClinet clinet, Action<DapperClinet> action)
         {
             if (clinet is null)
             {
