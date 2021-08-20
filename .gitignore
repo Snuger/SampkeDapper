@@ -50,3 +50,9 @@ package-lock.json
 #vs 文件
 .vs
 .vs/*
+
+/obj/
+*/obj/*
+
+/bin/
+*/bin/*
