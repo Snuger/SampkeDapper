@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Test\\Sampke.Dapper.Test.csproj": {}
+  },
+  "projects": {
+    "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Abstract\\Sampke.Dapper.Abstract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Abstract\\Sampke.Dapper.Abstract.csproj",
+        "projectName": "Sampke.Dapper.Abstract",
+        "projectPath": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Abstract\\Sampke.Dapper.Abstract.csproj",
+        "packagesPath": "D:\\ProgramData\\.nuget\\packages",
+        "outputPath": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Abstract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Snuger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21376.4\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Mysql\\Sampke.Dapper.Mysql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Mysql\\Sampke.Dapper.Mysql.csproj",
+        "projectName": "Sampke.Dapper.Mysql",
+        "projectPath": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Mysql\\Sampke.Dapper.Mysql.csproj",
+        "packagesPath": "D:\\ProgramData\\.nuget\\packages",
+        "outputPath": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Mysql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Snuger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Abstract\\Sampke.Dapper.Abstract.csproj": {
+                "projectPath": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Abstract\\Sampke.Dapper.Abstract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21376.4\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Test\\Sampke.Dapper.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Test\\Sampke.Dapper.Test.csproj",
+        "projectName": "Sampke.Dapper.Test",
+        "projectPath": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Test\\Sampke.Dapper.Test.csproj",
+        "packagesPath": "D:\\ProgramData\\.nuget\\packages",
+        "outputPath": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Snuger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Abstract\\Sampke.Dapper.Abstract.csproj": {
+                "projectPath": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Abstract\\Sampke.Dapper.Abstract.csproj"
+              },
+              "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Mysql\\Sampke.Dapper.Mysql.csproj": {
+                "projectPath": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Mysql\\Sampke.Dapper.Mysql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21376.4\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

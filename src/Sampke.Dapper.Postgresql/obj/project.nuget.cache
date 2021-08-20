@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "9D1kVhlVIZbYSyqTlPbLi32IGsidB4JuF+h6nAE0qpD4IisM/hqGe6fk8wMHYbJ3/xacTolUbfRuAh3GhPPFkQ==",
+  "success": true,
+  "projectFilePath": "E:\\open-source-code\\code-studio\\dotnet\\SampkeDapper\\src\\Sampke.Dapper.Postgresql\\Sampke.Dapper.Postgresql.csproj",
+  "expectedPackageFiles": [
+    "D:\\ProgramData\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "D:\\ProgramData\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "D:\\ProgramData\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "D:\\ProgramData\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "D:\\ProgramData\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "D:\\ProgramData\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "D:\\ProgramData\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
+    "D:\\ProgramData\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

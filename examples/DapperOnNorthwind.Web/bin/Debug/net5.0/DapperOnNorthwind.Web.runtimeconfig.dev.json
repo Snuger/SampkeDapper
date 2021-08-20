@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Snuger\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\ProgramData\\.nuget\\packages"
+    ]
+  }
+}
